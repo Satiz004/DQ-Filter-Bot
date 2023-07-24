@@ -5,7 +5,7 @@
   𝑫𝑸-𝑻𝒉𝒆-𝑭𝒊𝒍𝒆-𝑫𝒐𝒏𝒐𝒓 𝑩𝒐𝒕
 </h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝑊𝑒𝑙𝑐𝑜𝑚𝑒+𝑇𝑜+𝐷𝑄-𝑇ℎ𝑒-𝐹𝑖𝑙𝑒-𝐷𝑜𝑛𝑜𝑟!;𝐶𝑟𝑒𝑎𝑡𝑒𝑑+𝑏𝑦+Jᴏᴇʟ+ᠰ+TɢX!;𝐴+𝑠𝑖𝑚𝑝𝑙𝑒+𝑎𝑛𝑑+𝑝𝑜𝑤𝑒𝑟𝑓𝑢𝑙+𝐵𝑜𝑡!;𝐼𝑛𝑑𝑒𝑥𝑒𝑠+𝐹𝑖𝑙𝑒𝑠+𝑎𝑏𝑜𝑣𝑒+2𝐺𝐵;𝐴+𝐵𝑜𝑡+𝑤𝑖𝑡ℎ+𝑑𝑜𝑢𝑏𝑙𝑒+𝑏𝑢𝑡𝑡𝑜𝑛!;𝑆𝑡𝑎𝑟𝑡+𝑚𝑒𝑠𝑠𝑎𝑔𝑒+𝑤𝑖𝑡ℎ+𝑝𝑖𝑐!;𝐴𝑛𝑑+𝑚𝑜𝑟𝑒+𝑓𝑒𝑎𝑡𝑢𝑟𝑒𝑠!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝑊𝑒𝑙𝑐𝑜𝑚𝑒+𝑇𝑜+𝐷𝑄-𝑇ℎ𝑒-𝐹𝑖𝑙𝑒-𝐷𝑜𝑛𝑜𝑟!;𝐶𝑟𝑒𝑎𝑡𝑒𝑑+𝑏𝑦+𝙸𝚝𝚣_𝚖𝚎_𝟺𝟺𝟺!;𝐴+𝑠𝑖𝑚𝑝𝑙𝑒+𝑎𝑛𝑑+𝑝𝑜𝑤𝑒𝑟𝑓𝑢𝑙+𝐵𝑜𝑡!;𝐼𝑛𝑑𝑒𝑥𝑒𝑠+𝐹𝑖𝑙𝑒𝑠+𝑎𝑏𝑜𝑣𝑒+2𝐺𝐵;𝐴+𝐵𝑜𝑡+𝑤𝑖𝑡ℎ+𝑑𝑜𝑢𝑏𝑙𝑒+𝑏𝑢𝑡𝑡𝑜𝑛!;𝑆𝑡𝑎𝑟𝑡+𝑚𝑒𝑠𝑠𝑎𝑔𝑒+𝑤𝑖𝑡ℎ+𝑝𝑖𝑐!;𝐴𝑛𝑑+𝑚𝑜𝑟𝑒+𝑓𝑒𝑎𝑡𝑢𝑟𝑒𝑠!)
 </p>
 
 <a href="https://github.com/Joelkb/DQ-The-File-Donor/stargazers"><img src="https://img.shields.io/github/stars/Joelkb/DQ-The-File-Donor?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
@@ -189,7 +189,7 @@ python3 bot.py
 ## Credits 
 * [![EvaMaria-Devs](https://img.shields.io/static/v1?label=EvaMaria&message=devs&color=critical)](https://telegram.dog/EvaMariaDevs)
 * [![Joel-TGX](https://img.shields.io/static/v1?label=Jᴏᴇʟ+ᠰ+TɢX&message=Github&color=critical)](https://github.com/Joelkb)
-* [![Contact](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/creatorbeatz)
+* [![Contact](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/Itz_me_444)
 
 ## Thanks to 
  - Thanks To Dan For His Awesome [Library](https://github.com/pyrogram/pyrogram)
@@ -202,7 +202,7 @@ python3 bot.py
 ## Note 🏷️
  - <b>Importing this repo instead of forking is strictly prohibited 🚫 Kindly fork and edit as your wish (Must Give Credits for devs) 🙃</b>
  - <b>If you find any bugs or errors, report it to the developer.</b>
-* [![Contact Developer](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/creatorbeatz)
+* [![Contact Developer](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/Itz_me_444)
 
 [Note To A So Called Dev](https://telegram.dog/subin_works/203): 
 
