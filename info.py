@@ -68,7 +68,7 @@ IMDB = is_enabled((environ.get('IMDB', "True")), True)
 AUTO_FFILTER = is_enabled((environ.get('AUTO_FFILTER', "True")), True)
 AUTO_DELETE = is_enabled((environ.get('AUTO_DELETE', "True")), True)
 SINGLE_BUTTON = is_enabled((environ.get('SINGLE_BUTTON', "True")), True)
-CUSTOM_FILE_CAPTION = environ.get("CUSTOM_FILE_CAPTION", "<b>📂Fɪʟᴇɴᴀᴍᴇ : {file_name} 
+CUSTOM_FILE_CAPTION = environ.get("CUSTOM_FILE_CAPTION", f"{script.CAPTION}") 
  ╔════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╗ 
  ▫️<a href=https://t.me/movies_areaz> ᴍᴀɪɴ ɢʀᴏᴜᴘ </a> 
  ▫️<a href=https://t.me/rqsturmovie> ʀᴇǫᴜᴇsᴛ ᴍᴏᴠɪᴇs </a> 
